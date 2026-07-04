@@ -1,7 +1,7 @@
 ## Panzer Front PS1 Tool
 This program is designed to export some resources from Panzer Front.
 
-<img src="img/prog.jpg"/>
+<img src="img/prog.jpg" width="120"/>
 
 ## What does it export?
 Currently, this program can export:
