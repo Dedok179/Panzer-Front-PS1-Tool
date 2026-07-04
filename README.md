@@ -10,6 +10,7 @@ Currently, this program can export:
 - Textured transport (tanks, planes, etc.)
 
 <img src="img/t-80.jpg" width="320"/> <img src="img/aureole.jpg" width="320"/>
+<img src="img/poteau.jpg" width="320"/> <img src="img/krasnoe.jpg" width="320"/>
 
 ## TODO
 It is necessary to fix the work with terrain objects (maybe future)
